@@ -1,1 +1,1 @@
-# Desafio-da-Semana-1
+# Exercício-da-Semana-1
